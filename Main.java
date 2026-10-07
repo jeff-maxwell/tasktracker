@@ -1,4 +1,5 @@
 void main(String[] args) {
+    // List of tasks
     String task1 = "Buy milk";
     String task2 = "Walk the dog";
     boolean task1Removed = false;
